@@ -1,5 +1,5 @@
 # Decision-Tree-Classification-for-Hotel-Booking-Cancellation-Prediction
-# Hotel Booking Cancellation Prediction using Decision Tree
+
 
 ## Project Objective
 
